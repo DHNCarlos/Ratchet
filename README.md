@@ -1,3 +1,7 @@
+#My modified version of Ratchet
+
+This is my own modified which implements CALL_RESULT and CALL_ERROR requests sent from Clients.
+
 #Ratchet
 
 [![Build Status](https://secure.travis-ci.org/ratchetphp/Ratchet.png?branch=master)](http://travis-ci.org/ratchetphp/Ratchet)
